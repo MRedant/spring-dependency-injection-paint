@@ -5,6 +5,7 @@ www.switchfully.com
 ## Spring-dependency-injection
 
 - Part of the Spring module.
+- Classroom exercise
 
 We have 4 different sub-'projects'
 1. No dependency injection (_01_nodepedencyinjection)
